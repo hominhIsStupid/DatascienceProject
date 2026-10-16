@@ -1,3 +1,6 @@
 ### Bài tập lớn môn Data Science
 ## Tổng quan
- - Phân tích giá nhà và dự đoán thị trường
+ - Phân tích và dự đoán giá nhà
+
+## Dữ liệu
+ - Nguồn dữ liệu: https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques

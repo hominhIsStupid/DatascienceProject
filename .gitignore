@@ -1,4 +1,10 @@
-data/*
+data/raw/*
+!data/raw/notes.txt
+data/processed/*
+!data/processed/notes.txt
+reports/*
+!reports/notes.txt
 .ipynb_checkpoints/
 __pycache__/
 .env
+

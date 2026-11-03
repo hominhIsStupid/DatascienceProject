@@ -1,10 +1,10 @@
-data/raw/*
-!data/raw/notes.txt
-data/processed/*
-!data/processed/notes.txt
-reports/*
-!reports/notes.txt
-.ipynb_checkpoints/
-__pycache__/
-.env
+*
 
+!gitignore
+!README.md
+
+!data/raw/notes.txt
+!data/processed/notes.txt
+!reports/notes.txt
+
+!src/*.ipynb
